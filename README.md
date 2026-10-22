@@ -7,7 +7,7 @@
   <p>
     <a href="https://github.com/Unkn0Wms1337/AnchouseLoader">AnchouseLoader</a> •
     <a href="https://github.com/Unkn0Wms1337/AnchouseMain">AnchouseMain</a> •
-    <a href="https://github.com/Unkn0Wms1337/AnchouseMain/releases">Releases</a> •
+    <a href="https://github.com/Unkn0Wms1337/AnchouseChanger/releases/tag/Dota2">Releases</a> •
     <a href="https://github.com/Unkn0Wms1337/AnchouseMain/issues">Issues</a>
   </p>
 
